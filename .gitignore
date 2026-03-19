@@ -1,0 +1,12 @@
+# Ignore dataset
+archive/
+
+# Ignore trained model
+emotion_model.h5
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
